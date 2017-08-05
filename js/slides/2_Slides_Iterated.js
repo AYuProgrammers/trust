@@ -35,7 +35,7 @@ SLIDES.push({
 		// Words on top & bottom
 		self.add({
 			id:"topWords", type:"TextBox", text_id:"iterated_intro_top",
-			x:130, y:0, width:700, height:120, align:"center"
+			x:130, y:-10, width:700, height:120, align:"center"
 		});
 		self.add({
 			id:"btmWords", type:"TextBox", text_id:"iterated_intro_btm",
