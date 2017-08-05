@@ -1,5 +1,5 @@
 @font-face{
-	font-family: 'FuturaHandwritten';
+	font-family: 'EpsilonCTT';
 	font-style: normal;
 	src: url('FuturaHandwritten.ttf') format('truetype');
 }
@@ -16,7 +16,7 @@ body{
 
 	background: #fff;
 
-	font-family: 'FuturaHandwritten';
+	font-family: 'EpsilonCTT';
 	color: #333;
 	font-size: 20px;
 
@@ -200,7 +200,7 @@ s{
 }
 .button #text{
 	
-	font-family: 'FuturaHandwritten';
+	font-family: 'EpsilonCTT';
 	color: #000;
 	font-size: 24px;
 
