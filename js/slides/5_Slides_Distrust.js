@@ -100,11 +100,11 @@ SLIDES.push({
 		var y = 350;
 		self.add({
 			id:"roundsLabel", type:"TextBox",
-			x:0, y:y, width:450, size:25, noSelect:true
+			x:0, y:y+60, width:450, size:25, noSelect:true
 		});
 		self.add({
 			id:"roundsSlider", type:"Slider",
-			x:0, y:y+70, width:450,
+			x:0, y:y+90, width:450,
 			min:1, max:20, step:1,
 			message: "rules/turns"
 		});
