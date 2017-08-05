@@ -104,7 +104,7 @@ SLIDES.push({
 		});
 		self.add({
 			id:"roundsSlider", type:"Slider",
-			x:0, y:y+30, width:450,
+			x:0, y:y+70, width:450,
 			min:1, max:20, step:1,
 			message: "rules/turns"
 		});
@@ -133,13 +133,13 @@ SLIDES.push({
 			var y = 430;
 			self.add({
 				id:"continueLabel", type:"TextBox",
-				x:x, y:y+5, width:200, height:50,
+				x:x, y:y+45, width:200, height:50,
 				align:"right", color:"#aaa", size:17,
 				text_id:"distrust_2_end"
 			});
 			self.add({
 				id:"continueButton", type:"Button",
-				x:x+215, y:y, size:"short",
+				x:x+215, y:y+40, size:"short",
 				text_id:"label_continue",
 				message: "slideshow/next"
 			});
@@ -171,7 +171,7 @@ SLIDES.push({
 		// Worse...
 		self.add({
 			id:"next", type:"Button",
-			x:0, y:450, size:"long",
+			x:0, y:520, size:"long",
 			text_id:"distrust_3_btn",
 			message: "slideshow/next"
 		});
@@ -288,7 +288,7 @@ SLIDES.push({
 		// Worse...
 		self.add({
 			id:"next", type:"Button",
-			x:0, y:450, size:"long",
+			x:0, y:500, size:"long",
 			text_id:"distrust_5_btn",
 			message: "slideshow/scratch"
 		});
