@@ -31,7 +31,7 @@ SLIDES.push({
 		});
 		self.add({
 			id:"text5", type:"TextBox",
-			x:132, y:370, width:817, height:95, align:"left",
+			x:132, y:0, width:817, height:95, align:"left",
 			text_id:"evolution_intro_footer"
 		});
 
@@ -280,7 +280,7 @@ SLIDES.push({
 
 			// Button: next (hidden)
 			self.add({
-				id:"next", type:"Button", x:510, y:450, 
+				id:"next", type:"Button", x:510, y:500, 
 				text_id:"evo_10_btn", size:"long",
 				message: "slideshow/next"
 			});
