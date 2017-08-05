@@ -53,7 +53,7 @@ SLIDES.push({
 
 		// Button
 		self.add({
-			id:"button", type:"Button", x:615, y:481, 
+			id:"button", type:"Button", x:615, y:531, 
 			text_id:"conclusion_btn", size:"long",
 			message:"slideshow/scratch"
 		});
@@ -79,7 +79,7 @@ SLIDES.push({
 
 		// Button
 		self.add({
-			id:"button", type:"Button", x:385, y:466, 
+			id:"button", type:"Button", x:385, y:496, 
 			text_id:"outro_1_btn",
 			message:"slideshow/next"
 		});
