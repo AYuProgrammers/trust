@@ -319,7 +319,7 @@ SLIDES.push({
 
 		// Next
 		self.add({
-			id:"next", type:"Button", x:510, y:475, 
+			id:"next", type:"Button", x:510, y:505, 
 			text_id:"evo_11_btn", size:"long",
 			message: "slideshow/next"
 		});
