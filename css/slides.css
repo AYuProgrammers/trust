@@ -1,7 +1,7 @@
 @font-face{
-	font-family: 'EpsilonCTT';
+	font-family: 'Segoe Print';
 	font-style: arial;
-	src: url('https://ayuprogrammers.github.io/trust/css/EpsilonCTT.TTF') format('truetype');
+	src: url('https://ayuprogrammers.github.io/trust/css/segoepr.ttf') format('truetype');
 }
 
 html,body{
@@ -16,7 +16,7 @@ body{
 
 	background: #fff;
 
-	font-family: 'EpsilonCTT';
+	font-family: 'Segoe Print';
 	color: #333;
 	font-size: 20px;
 
@@ -200,7 +200,7 @@ s{
 }
 .button #text{
 	
-	font-family: 'EpsilonCTT';
+	font-family: 'Segoe Print';
 	color: #000;
 	font-size: 24px;
 
