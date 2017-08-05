@@ -31,7 +31,7 @@ SLIDES.push({
 		});
 		self.add({
 			id:"text5", type:"TextBox",
-			x:132, y:0, width:817, height:95, align:"left",
+			x:0, y:370, width:817, height:95, align:"left",
 			text_id:"evolution_intro_footer"
 		});
 
