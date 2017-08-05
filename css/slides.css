@@ -134,13 +134,13 @@ s{
 #slideshow{
 	
 	/*border: 1px solid rgba(0,0,0,0.2);*/
-	width:1000px;
+	width:960px;
 	height:540px;
 
 	/* Center this thing */
 	position: absolute;
 	left:-480px;
-	top:-200px;
+	top:-100px;
 
 }
 .object{
